@@ -19,6 +19,6 @@ To make for an inquisitive project, an emphasis was placed on understanding the 
 <img src="COCO-1_clf2ph1.png"  width="750" height="300"/>
 
 #### Results From Network Trained on VOC Dataset
-<img src="VOC-1_clfph1.JPG"  width="750" height="300"/>
+<img src="VOC-1_clfph1.jpg"  width="750" height="300"/>
 
 [Project Report](Object%20detection%20with%20YOLOv3.pdf)
