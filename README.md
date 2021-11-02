@@ -21,4 +21,4 @@ To make for an inquisitive project, an emphasis was placed on understanding the 
 #### Results From Network Trained on VOC Dataset
 <img src="VOC-1_clfph1.jpg"  width="750" height="300"/>
 
-[Project Report](Object%20detection%20with%20YOLOv3%20Group%2043.pdf)
+[Project Report](Object%20detection%20with%20YOLOv3_Group_43.pdf)
